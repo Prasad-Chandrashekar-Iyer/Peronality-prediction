@@ -12,5 +12,5 @@ pip install -r requirments.txt
 
 python app.py
 
-Make sure installed latest version of pip
+Make sure you have installed latest version of pip
 
